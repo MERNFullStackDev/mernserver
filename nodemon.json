@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "kambojmail",
+        "DB_PASSWORD": "Diamond123",
+        "DB_NAME": "mern",
+        "JWT_KEY": "today_is_best_day_of_my_life"
+    }
+}
